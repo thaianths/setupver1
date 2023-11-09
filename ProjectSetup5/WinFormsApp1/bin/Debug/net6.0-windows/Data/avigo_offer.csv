@@ -1,0 +1,8 @@
+avigo_offer_id,driver_name,driver_phone,kind_of_vehicle,registration_number,class_of_vehicle,addr_of_standby,latitude_of_standby_addr,longitude_of_standby_addr,status,driver_id,offer_id,modified_at,confirm_time,request_id,trip_id
+string,string,string,integer,string,string,string,Real,Real,integer,string,Bigint,Bigint,Bigint,Bigint,string
+2.02E+16,Khoa Nang Tùng,908880743,1002,25T-58975,deluxe,"1 Bùi Vi?n, Phu?ng Ph?m Ngu Lão, Qu?n 1, H? Chí Minh",10.767617,106.69457,0,4372,0,0,0,0,
+2.02E+16,AVI_TX,901010101,1003,51F - 83767,deluxe,"Ben Thanh Market, Ben Thanh Market, Lê L?i, B?n Thành, District 1, Ho Chi Minh City",10.772706,106.69801,0,60aca1819f3f3d26204084bc,0,0,0,0,
+2.02E+16,Lê Cát Tr?ng Lý,904908241,1003,49O-37693,normal,"50 Ð. Bùi Vi?n, Phu?ng Ph?m Ngu Lão, Qu?n 1, Thành ph? H? Chí Minh",10.767432,106.69381,0,122,0,0,0,0,
+2.02E+16,Nguy?n Tu?n Hung,905733196,1002,46N-62068,normal,"537 Ð. Nguy?n Duy Trinh, Phu?ng Bình Trung Tây, Qu?n 2, Thành ph? H? Chí Minh",10.788666,106.7705,0,7256,0,0,0,0,
+2.02E+15,Nguy?n Qu?nh Hoa,906867309,1003,60J-91292,deluxe,"55 Ð. Ph?m Vi?t Chánh, Phu?ng Nguy?n Cu Trinh, Qu?n 1, Thành ph? H? Chí Minh",10.765905,106.68287,0,8568,0,0,0,0,
+2.02E+16,Nguy?n Tu?n Hung,909884464,1002,19O-53457,deluxe,"69 Nguy?n Kh?c Nhu, Phu?ng Cô Giang, Qu?n 1, Thành ph? H? Chí Minh",10.763569,106.69286,0,3141,0,0,0,0,
